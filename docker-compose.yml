@@ -1,0 +1,16 @@
+services:
+  anvil:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.anvil
+    ports:
+      - "8545:8545"
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.frontend
+    ports:
+      - "5173:5173"
+    depends_on:
+      - anvil
