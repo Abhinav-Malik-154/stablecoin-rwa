@@ -132,6 +132,10 @@ Fork the repository, create a feature branch, and submit a pull request with pro
 ## 📬 Contact
 
 For collaboration, research, or development inquiries, please connect via GitHub.
+And
+
+[![Abhinav Malik Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/malik_abhi97411)
+[![Abhinav Malik Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-devo/)
 
 ---
 
